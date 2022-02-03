@@ -3,7 +3,7 @@ title: Atul
 subtitle: ML&AI Engineer
 email: atulchauhan.25@gmail.com
 description: A budding Machine Learning & Artificial Intelligence Engineer
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
